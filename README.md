@@ -1,4 +1,4 @@
-# SMILE: SEQUENCE-TO-SEQUENCE DOMAIN ADAPTATION WITH MINIMIZING LATENT ENTROPY FOR TEXT IMAGE RECOGNITION
+# SMILE: Sequence-to-Sequence Domain Adaption with Minimizing Latent Entropy for Text Image Recognition
 Auther: Yen-Cheng Chang, [Yi-Chang Chen](https://github.com/GitYCC), Yu-Chuan Chang, Yi-Ren Yeh
 
 Paper: https://arxiv.org/abs/2202.11949
