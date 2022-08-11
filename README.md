@@ -2,6 +2,8 @@
 Auther: Yen-Cheng Chang, [Yi-Chang Chen](https://github.com/GitYCC), Yu-Chuan Chang, Yi-Ren Yeh
 
 Paper: https://arxiv.org/abs/2202.11949
+News:
+- paper accepted by ICIP 2022 (IEEE International Conference on Image Processing).
 
 Training recognition models with synthetic images have achieved remarkable results in text recognition. However, recognizing text from real-world images still faces challenges due to the domain shift between synthetic and real-world text images. One of the strategies to eliminate the domain difference without manual annotation is unsupervised domain adaptation (UDA). Due to the characteristic of sequential labeling tasks, most popular UDA methods cannot be directly applied to text recognition. To tackle this problem, we proposed a UDA method with minimizing latent entropy on sequence-to-sequence attention-based models with classbalanced self-paced learning. Our experiments show that our proposed framework achieves better recognition results than the existing methods on most UDA text recognition benchmarks.
 
