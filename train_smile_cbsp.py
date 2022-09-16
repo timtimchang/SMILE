@@ -129,7 +129,7 @@ class trainer(object):
         print(self.optimizer)
 
     def build_model(self, opt):
-        """建立模型"""
+        """Build Model"""
 
         print('-' * 80)
 
@@ -350,7 +350,7 @@ class trainer(object):
          fp-logwenjian
         :param preds:
         :param labels:
-        :param fp_log: 日誌文件指针
+        :param fp_log: 
         :return:
         """
         for pred, gt in zip(preds[:5], labels[:5]):
